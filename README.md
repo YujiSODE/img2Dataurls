@@ -21,7 +21,8 @@ This script outputs a file that has an array of dataurls corresponding to image 
 **Details of output file**  
 - filename: `dataurls_<exNameN><XXX>.tcl`  
   where `<exNameN>` and `<XXX>` are given file extension and numbers.
-- file contents
+- file contents  
+  There are **header section** and **body section**.
 
 ## 3. Library list
 - dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
