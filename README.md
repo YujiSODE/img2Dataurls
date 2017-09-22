@@ -25,10 +25,10 @@ This script outputs a file that has an array of dataurls corresponding to image 
 2. **file contents**  
    There are header section and body section.  
    1. **header section**  
-      It has `timestamp`, `directory` and `FileExtension`.  
+      It has `timestamp`, `directory` and `fileExtension`.  
       - `timestamp`: timestamp of execution
       - `directory`: path to the current directory
-      - `FileExtension`: given file extension
+      - `fileExtension`: given file extension
       
    2. **body section**  
       It has following format:  
