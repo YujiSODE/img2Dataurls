@@ -18,6 +18,10 @@ or
 
 ## 2. Output
 This script outputs a file that has an array of dataurls corresponding to image files with the given extension in the current directory.  
+**Details of output file**  
+- filename: `dataurls_<exNameN><XXX>.tcl`  
+  where <exNameN> and <XXX> are *N*-th name of image file extension and numbers.
+- file contents
 
 ## 3. Library list
 - dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
