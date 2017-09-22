@@ -20,7 +20,7 @@ or
 This script outputs a file that has an array of dataurls corresponding to image files with the given extension in the current directory.  
 **Details of output file**  
 - filename: `dataurls_<exNameN><XXX>.tcl`  
-  where <exNameN> and <XXX> are *N*-th name of image file extension and numbers.
+  where <exNameN> and <XXX> are given file extension and numbers.
 - file contents
 
 ## 3. Library list
