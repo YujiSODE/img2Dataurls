@@ -27,7 +27,7 @@ namespace eval ::img2Dataurls {
 		# - $exName: name of image filename extension
 		set T [clock seconds];
 		#$txt is text data to output
-		set txt "\\#[clock format $T -gmt 1]\\n\\#directory:\\t[pwd]\\n\\#FileExtension:\\t$exName";
+		set txt "\\#timestamp:\\t[join [clock format $T -gmt 1] _]\\n\\#directory:\\t[pwd]\\n\\#fileExtension:\\t$exName";
 		#$txtName is filename to output
 		set txtName "dataurls_$exName$T.tcl";
 		set imgList [lsort -dictionary [glob "*.$exName"]];
