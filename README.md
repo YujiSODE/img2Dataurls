@@ -5,3 +5,9 @@ https://github.com/YujiSODE/img2Dataurls
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php
 ______
+## Synopsis
+`::img2Dataurls::getUrls exName1;`  
+or  
+`tclsh img2Dataurls.tcl exName1 ??exName2? ?exName3? ... ?exNameN??;`  
+**Parameters**  
+- exNameN: N-th name of image file extension
