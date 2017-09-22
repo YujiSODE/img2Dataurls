@@ -17,7 +17,7 @@ or
 - `img2Dataurls.tcl`
 
 ## 2. Output
-This program outputs a file that has an array of dataurls corresponding to image files with the given extension in the current directory.  
+This script outputs a file that has an array of dataurls corresponding to image files with the given extension in the current directory.  
 
 ## 3. Library list
 - dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
