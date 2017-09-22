@@ -27,14 +27,14 @@ This script outputs a file that has an array of dataurls corresponding to image 
       It has `timestamp`, `directory` and `FileExtension`.  
       - `timestamp`: timestamp of execution
       - `directory`: path to the current directory
-      - `FileExtension`: given file extension  
+      - `FileExtension`: given file extension
       
    2. **body section**  
       It has following format:  
       `#=== File: <matched filename> ===`  
       `#dataurl`  
       `set dataurls(<matched filename>) {<dataurl>};`
-
+      
 ## 3. Library list
 - dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
 
