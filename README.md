@@ -15,4 +15,11 @@ or
 
 **Script**  
 - `img2Dataurls.tcl`
+
 ## 2. Output file
+
+## 3. Library list
+- dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
+
+## 4. Reference
+- reference
