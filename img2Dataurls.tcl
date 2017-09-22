@@ -8,8 +8,9 @@
 ##===================================================================
 #It outputs file that has an array of dataurls, corresponding to image files with the given extension in the current directory, and returns the output filename.
 #=== Synopsis ===
+#**Tcl**
 #::img2Dataurls::getUrls exName1;
-#or
+#**Shell**
 #tclsh img2Dataurls.tcl exName1 ??exName2? ?exName3? ... ?exNameN??;
 #=== Parameters ===
 # - exNameN: N-th name of image file extension
