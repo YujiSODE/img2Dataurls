@@ -6,7 +6,7 @@ https://github.com/YujiSODE/img2Dataurls
 >See LICENSE or http://opensource.org/licenses/mit-license.php
 ______
 >## 0. data URL scheme
->According to RFC 2397 \(Masinter, 1998\), data URL scheme is URL scheme that would work like \'immediate addressing\', and this scheme has following form of URL:  
+>According to (RFC 2397 \(Masinter, 1998\), data URL scheme is URL scheme that would work like \'immediate addressing\', and this scheme has following form of URL:  
 >`data:[<mediatype>][;base64],<data>`  
 >RFC 2397 \(Masinter, 1998\) shows an example of using data URL scheme as an inline image in a HTML document as follows:  
 >`<IMG SRC="data:image/gif;base64,R0lGODdhM` ... `AA7" ALT="Larry">`
