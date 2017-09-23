@@ -46,5 +46,5 @@ This script outputs a file that has an array of dataurls corresponding to image 
 - dataurl64/dataurl64.tcl (Yuji SODE,2017): the MIT License; https://gist.github.com/YujiSODE/009cdfb080e273ec506a1ef24acd050c
 
 ## 4. Reference
-- Masinter, L. 1998. The "data" URL scheme. Request for Comments 2397, The Internet Society.
+- Masinter, L. 1998. The "data" URL scheme. *Request for Comments 2397*, *The Internet Society*.
 derived on \[2017-09-23\] from: https://tools.ietf.org/html/rfc2397
